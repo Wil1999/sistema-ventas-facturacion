@@ -7,3 +7,14 @@ D:\Sistema Punto de Ventas - Facturacion\sistema-ventas-facturacion\SISTEMA_PUNT
 D:\Sistema Punto de Ventas - Facturacion\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\obj\Debug\SISTEMA_PUNTO_VENTAS.csproj.CoreCompileInputs.cache
 D:\Sistema Punto de Ventas - Facturacion\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\obj\Debug\SISTEMA_PUNTO_VENTAS.exe
 D:\Sistema Punto de Ventas - Facturacion\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\obj\Debug\SISTEMA_PUNTO_VENTAS.pdb
+D:\W\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\bin\Debug\SISTEMA_PUNTO_VENTAS.exe.config
+D:\W\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\bin\Debug\SISTEMA_PUNTO_VENTAS.exe
+D:\W\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\bin\Debug\SISTEMA_PUNTO_VENTAS.pdb
+D:\W\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\obj\Debug\SISTEMA_PUNTO_VENTAS.csproj.AssemblyReference.cache
+D:\W\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\obj\Debug\SISTEMA_PUNTO_VENTAS.csproj.SuggestedBindingRedirects.cache
+D:\W\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\obj\Debug\SISTEMA_PUNTO_VENTAS.usuarios.resources
+D:\W\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\obj\Debug\SISTEMA_PUNTO_VENTAS.Properties.Resources.resources
+D:\W\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\obj\Debug\SISTEMA_PUNTO_VENTAS.csproj.GenerateResource.cache
+D:\W\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\obj\Debug\SISTEMA_PUNTO_VENTAS.csproj.CoreCompileInputs.cache
+D:\W\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\obj\Debug\SISTEMA_PUNTO_VENTAS.exe
+D:\W\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\obj\Debug\SISTEMA_PUNTO_VENTAS.pdb
