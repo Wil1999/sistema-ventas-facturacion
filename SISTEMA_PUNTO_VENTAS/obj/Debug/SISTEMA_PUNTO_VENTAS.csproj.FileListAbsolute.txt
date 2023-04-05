@@ -1,0 +1,9 @@
+D:\Sistema Punto de Ventas - Facturacion\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\bin\Debug\SISTEMA_PUNTO_VENTAS.exe
+D:\Sistema Punto de Ventas - Facturacion\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\bin\Debug\SISTEMA_PUNTO_VENTAS.pdb
+D:\Sistema Punto de Ventas - Facturacion\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\obj\Debug\SISTEMA_PUNTO_VENTAS.csproj.AssemblyReference.cache
+D:\Sistema Punto de Ventas - Facturacion\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\obj\Debug\SISTEMA_PUNTO_VENTAS.usuarios.resources
+D:\Sistema Punto de Ventas - Facturacion\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\obj\Debug\SISTEMA_PUNTO_VENTAS.Properties.Resources.resources
+D:\Sistema Punto de Ventas - Facturacion\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\obj\Debug\SISTEMA_PUNTO_VENTAS.csproj.GenerateResource.cache
+D:\Sistema Punto de Ventas - Facturacion\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\obj\Debug\SISTEMA_PUNTO_VENTAS.csproj.CoreCompileInputs.cache
+D:\Sistema Punto de Ventas - Facturacion\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\obj\Debug\SISTEMA_PUNTO_VENTAS.exe
+D:\Sistema Punto de Ventas - Facturacion\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\obj\Debug\SISTEMA_PUNTO_VENTAS.pdb
