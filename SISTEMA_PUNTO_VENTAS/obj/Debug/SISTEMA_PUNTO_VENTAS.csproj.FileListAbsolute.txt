@@ -18,3 +18,4 @@ D:\W\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\obj\Debug\SISTEMA_PUNTO_VEN
 D:\W\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\obj\Debug\SISTEMA_PUNTO_VENTAS.csproj.CoreCompileInputs.cache
 D:\W\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\obj\Debug\SISTEMA_PUNTO_VENTAS.exe
 D:\W\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\obj\Debug\SISTEMA_PUNTO_VENTAS.pdb
+D:\Sistema Punto de Ventas - Facturacion\sistema-ventas-facturacion\SISTEMA_PUNTO_VENTAS\bin\Debug\SISTEMA_PUNTO_VENTAS.exe.config
